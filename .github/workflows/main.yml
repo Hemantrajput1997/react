@@ -23,4 +23,5 @@ jobs:
       run: |
         ssh -o StrictHostKeyChecking=no -i $HOME/.ssh/ ubuntu@3.145.57.225 "
         cd /var/www/html/react
-        sudo git pull origin main  "
+        sudo git pull origin main  
+        npm start   "
