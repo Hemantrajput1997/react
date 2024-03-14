@@ -1,2 +1,3 @@
 this ins new text file
 whichchecks the automation part on server
+to deploy CI CD  to node react application
